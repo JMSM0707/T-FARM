@@ -9,7 +9,7 @@ from datetime import datetime
 from fake_useragent import FakeUserAgent
 import asyncio, json, os, pytz
 
-wib = pytz.timezone('Asia/Jakarta')
+wib = pytz.timezone('Europe/Moscow')
 
 class Teneo:
     def __init__(self) -> None:

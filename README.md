@@ -48,7 +48,7 @@ Python3.9 dan yuqori va PIP o'rnatilganligiga ishonch hosil qiling.
         }
     ]
   ```
-- **manual_proxy.txt:** Siz faylni manual_proxy.txt loyiha katalogida topasiz. manual_proxy.txt unda skript formatiga mos keladigan ma'lumotlar mavjudligiga ishonch hosil qiling aks holda skript ishlamaydi. Mana fayl formatlariga misollar:
+- **proxy.txt:** Siz faylni proxy.txt loyiha katalogida topasiz. proxy.txt unda skript formatiga mos keladigan ma'lumotlar mavjudligiga ishonch hosil qiling aks holda skript ishlamaydi. Mana fayl formatlariga misollar:
 
   ```bash
   http://user:pass@ip:port
